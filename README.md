@@ -1,4 +1,4 @@
-# Dracula verse
+# Dracula Metaverse
 Declarations of the doc goals
 # Page layout
 Police, langage, paragraph space, color codes, etc...
