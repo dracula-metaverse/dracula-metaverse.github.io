@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dracula-metaverse/dracula-metaverse.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dracula-metaverse/dracula-metaverse.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Dracula verse
+Declarations of the doc goals
+# Page layout
+Police, langage, paragraph space, color codes, etc...
+# Tools
+*(what do we use and what we could use)* Gdocs, etc...
+# Spirit
+*(how the thing is remembered)*
+## Story/Origins
+From where it came until now
+## Objectives
+Sort/medium/longterm
+## Scope
+What is the size/type/complexity of the project
+## Creative direction
+### inspirations
+#### Dracula stories
+#### Dark fantasy *(?)*
+#### Modern currency symbolism
+#### *(etc)*
+### Design
+How the gameplay systems are synchronized, what is the legitimacy of the content
+### Artistic
+The graphic style (realistic, cartoon, etc...), why, how
+### User experience
+# Minecraft
+## The game
+Non-trivial introduction
+## Community
+Differences, summary of its story, trends, expectations
+## Potential
+Why doing it
+## Techical implications
+What we need
+# Roadmap
+## *(step)*
+*(desc of step)*
+# Staff
+Insert global team hierarchy diagram image
+## FlameofChange
+*(for example)* GD, Freelance, narrative, 24yo baguette, blablabla
+## *(other staff)*
+*(RolyMcRoleFace & BioyMcBioface)*
