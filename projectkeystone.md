@@ -55,6 +55,7 @@ The **Flame of Change** in person ! Junior Game designer with a lot of stories t
 ☼ [Arcadia corp](https://www.arcadia-corporation.com/community/flameofchange)
 ☼ [Soundcloud](https://soundcloud.com/flameofchange/tracks)
 ☼ [Itch.io](https://flameofchange.itch.io)
+
 **Strengths**
 - High writing and layout skills
 - History enthusiast
@@ -62,6 +63,7 @@ The **Flame of Change** in person ! Junior Game designer with a lot of stories t
 - Silent workhorse
 - Outside-the-box thinking
 - Living anti-depressant
+
 **Weaknesses**
 - Autism (could miss irony or implicit rules)
 - ADHD (need to be focused when going ablaze)
