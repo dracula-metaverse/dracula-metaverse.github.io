@@ -23,16 +23,16 @@ Sort/medium/longterm
 ## Scope]-]
 What is the size/type/complexity of the project
 ## Creative direction]-]
-### inspirations
-#### Dracula stories
-#### Dark fantasy *(?)*
-#### Modern currency symbolism
-#### *(etc)*
-### Design
+### inspirations]-
+#### Dracula stories-
+#### Dark fantasy *(?)*-
+#### Modern currency symbolism-
+#### *(etc)*-
+### Design]-
 How the gameplay systems are synchronized, what is the legitimacy of the content
-### Artistic
+### Artistic]-
 The graphic style (realistic, cartoon, etc...), why, how
-### User experience
+### User experience]-
 # Minecraft]-]-]
 ## The game]-]
 Non-trivial introduction
@@ -40,16 +40,16 @@ Non-trivial introduction
 Differences, summary of its story, trends, expectations
 ## Potential]-]
 Why doing it
-## Techical implications]-]
+## Technical implications]-]
 What we need
 # Roadmap]-]-]
 ## *(step)*]-]
 *(desc of step)*
-# Staff
+# Staff]-]-]
 Insert global team hierarchy diagram image
 ## Mzdor]-]
 admin blablabla
-## FlameofChange]-]
+## FlameofChange / Pierric Saillard]-]
 The **Flame of Change** in person ! Junior Game designer with a lot of stories to tell. He is taking care of the backbone of the game, the document hierarchy and the content. A true pivot between each groups. Can support concept art and sound design effort. Lot of experience in custom Minecraft gameplay, RTS, FPS and RPG. Don't talk about Warcraft 3 !
 
 ☼ [Deviant art](https://www.deviantart.com/nebkah01jr/gallery)
