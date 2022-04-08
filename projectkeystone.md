@@ -51,9 +51,13 @@ Insert global team hierarchy diagram image
 admin blablabla
 ## FlameofChange]-]
 The **Flame of Change** in person ! Junior Game designer with a lot of stories to tell. He is taking care of the backbone of the game, the document hierarchy and the content. A true pivot between each groups. Can support concept art and sound design effort. Lot of experience in custom Minecraft gameplay, RTS, FPS and RPG. Don't talk about Warcraft 3 !
+
 ☼ [Deviant art](https://www.deviantart.com/nebkah01jr/gallery)
+
 ☼ [Arcadia corp](https://www.arcadia-corporation.com/community/flameofchange)
+
 ☼ [Soundcloud](https://soundcloud.com/flameofchange/tracks)
+
 ☼ [Itch.io](https://flameofchange.itch.io)
 
 **Strengths**
