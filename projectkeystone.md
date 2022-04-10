@@ -1,7 +1,7 @@
 # Dracula Metaverse]-]-]
 Declarations of the doc goals
 # Page layout]-]-]
-The Dracula Metaverse circles arround red and black. So titles and important terms would naturally circle arround blood/red themes. Other colors are to be used only for schematic purposes in examples or specific explaination. In other words titles should stay in nuances of red.
+The Dracula Metaverse circles arround red and black. So titles and important terms would naturally circle arround blood/red themes. Other colors are to be used only for schematic purposes in examples or specific explaination. In other words titles should stay in nuances of red. The font is Arial for text and Cinzel for titles, thicker for the highest titles. 8 point spacing after paragraphs.
 Titles get a typing code to easily differentiate their hierarchy without messing the markup langage : 
 - Title 1]-]-]
 - Title 2]-]
