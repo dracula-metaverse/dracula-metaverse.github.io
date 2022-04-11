@@ -15,7 +15,21 @@ First of all, all documentation are priorized to Github, as versionning is cruci
 ## Google doc]-]
 Everything we cannot make on Github will be on GDoc : exporting PDF, layout, sheets, slides and so on. Some external document could be integrated as links in the github to ease the comprehension. This means Github have the last word. However the main strength of this cloud-based software resides on the real-time collaboration on the same document, which Github dont. Consequently it is advised to centralise all results in the github when in place.
 # Spirit]-]-]
-*(how the thing is remembered)*
+First of all the Metaverse bases itself on crypto-currency and new web technologies. There is three main objectives of the project :
+- league the community around DRC;
+- initiate people to the 3.0 web;
+- propose virtual services with a custom made universe for the current community.
+
+To fulfill all of these, we need to create a creative direction so players could immediately bind the idea of the DRC to this world and backward. So we need a type of media allowing a huge field of creation which could federate a massive amount of people. We could perfectly create a naive MMO game but it is not enough to fulfill the 3.0 web objective.
+
+   Facebook/Meta, while not creating the concept, has popularized the Metaverse kind of media. The latter uses the virtual world as a new kind of permanent online working space for its employees. However DRC is not made for its team. So we have to create our own metaverse with its own mechanics and of course its own spirit.
+   
+   DRC found its name Dracula from the concept of sucking farmed accounts on crypto-currencty. It is an elegant way to put a figurative way of absorbing money like a bloodthirsty vampire.
+   
+   Consequently, we could use the Dracula name of the currency as an initial point of the lore design, as it is a common fictional quirk of pop culture (Vlad the Impaler, Bloodborn, Castlevania, Twilight etc…). By creating a fictional world we give a setting to all of its virtual content. Furthermore, if needed, the team can expand its universe without creating a completely separate background. Deeper and richer this world becomes, the more we can retain and find customers from sheer quality and quantity. We cannot make an anonymous universe, in other terms an absence of complex context, because that would utterly limit the large scope we are defining.
+   
+   So we need a physical support of this universe. We could use books, comics, film, series or audio of course, but the point of the metaverse is to make people interact with each other and with the virtual world. The only possible candidate is video games.  Minecraft, while not a metaverse by itself, is a first-person sandbox game with RPG elements and a huge multiplayer potential. It is possible to create independent servers with their own content, mechanics, worlds, and even intimately link it with other services (website, other games, etc…). The other strength of Minecraft resides on the sheer number of potential players (100 millions), the extensive tools created by the community, and the very simple fact of not having to develop from scratch a game engine. By first applying our goals on adapting Minecraft as a metaverse we can create the virtual world we need ; which corroborates the intention of embracing 3.0 web. Moreover we can make Minecraft players interested in DRC & crypto through the game we use.
+
 ## Story/Origins]-]
 From where it came until now
 ## Objectives]-]
