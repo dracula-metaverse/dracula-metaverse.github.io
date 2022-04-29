@@ -1,5 +1,3 @@
-# dracula metaverse
-
 ## Game design
 This is not about graphics, but gameplay. Other subcategories such as level design or narrative design may appear if needed. 
 
