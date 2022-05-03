@@ -20,59 +20,101 @@ It is important to first settle the physical dimension of this universe. Because
 The system is inspired from our own : a series of smaller planets revolutioning around a yellow dwarf. In this document they are detailed from the closest to the furthest from the sun.
 ### Tear]-
 A mix between our [Mercury](https://en.wikipedia.org/wiki/Mercury_(planet)) and [Venus](https://en.wikipedia.org/wiki/Venus). Smaller than our Earth with a small acid atmosphere giving its silverish apparence. It is called like that due to its color in most of cultures.
+
 *Planet ray*         5,000km (+-1km)
+
 *Planet atmosphere*  30km (+-1km)
+
 *Distance to sun*    80,000,000km (+-1,000,000km)
+
 *Gravity*            0.95G
+
 *Revolution*         222 days
+
 *Revolution angle*   neglibible
+
 *inclinaison*        9°
+
 *Rotation*           19 hours
 ### Jewel]-
 A small gas planet with a green component. Its size is similar to earth but has way less mass. It is called like that due to its neon green atmosphere.
+
 *Planet ray*         3,000km (+-1km)
+
 *Planet atmosphere*  30km (+-1km)
+
 *Distance to sun*    120,000,000km (+-1,000,000km)
+
 *Gravity*            0.3G
+
 *Revolution*         300 days
+
 *Revolution angle*   neglibible
+
 *inclinaison*        13°
+
 *Rotation*           25 hours
 ### Earth]-
 The planet is a bit older than ours (~5B years) but the geology has similar properties and composition. The planet has similar cycles and dimensions to simplify, as it would otherwise need to be justified. It is located within the zone where life is possible. It has two moons and a white ring, their total mass cumulates the rough same as our own moon.
 ### Red moon]-
 The closest and biggest is red-colored due to a tiny atmosphere and layer of water hosting bacteria producing a reddish color. Its orbit is a bit bent.
+
 *Planet ray*         900km (+-1km)
+
 *Planet atmosphere*  1km
+
 *Distance to Earth*  250,000km (+-1,000km)
+
 *Gravity*            0.1G
+
 *Revolution*         27 days
+
 *Revolution angle*   5°
+
 *inclinaison*        5°
+
 *Rotation*           25 hours
 ### Dark moon]-
 The second further away and smaller is a dark moon with a similar composition of the red but with no atmosphere. Its orbit is however way more vertical.
+
 *Planet ray*         900km (+-1km)
+
 *Planet atmosphere*  1km
+
 *Distance to Earth*  300,000km (+-5,000km)
+
 *Gravity*            0.08G
+
 *Revolution*         23 days
+
 *Revolution angle*   54°
+
 *Rotation*           666 days
 ### White ring]-
 A small ring of rock has been created by an [old moon which shattered a billion year ago when approaching the earth](https://www.youtube.com/watch?v=lheapd7bgLA). The bent is a bit more pronounced than the red moon.
+
 *Distance to Earth*  5,000 to 10,000km
+
 *Revolution*         3 to 10 days (depending on the distance)
+
 *Revolution angle*   10°
 ### Protector eye]-
 Behind earth resides a large planet of rock and gas, similar to Jupiter. Its sheer size served as an asteroid shield. Its ring is almost vertical and always facing the center, looking like an “eye” if looked through an optical lens. Its color is golden and its “iris” white-blue.
+
 *Planet ray*         18,000km (+-10km)
+
 *Planet atmosphere*  33,350,000km (+-1,000km)
+
 *Distance to sun*    728,000,000km (+-2,000,000km)
+
 *Gravity*            2.2G
+
 *Revolution*         3,900 days
+
 *Revolution angle*   neglibible
+
 *inclinaison*        79°
+
 *Rotation*           192 days
 ### Asteroid belt]-
 We have then a basic asteroid belt spanning for hundreds of millions of kilometers
